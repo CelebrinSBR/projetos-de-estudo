@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Controle de FLuxo/Controle de FLuxo.iml" filepath="$PROJECT_DIR$/Controle de FLuxo/Controle de FLuxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Santader/Santader.iml" filepath="$PROJECT_DIR$/Santader/Santader.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/coisas do java.iml" filepath="$PROJECT_DIR$/.idea/coisas do java.iml" />
       <module fileurl="file://$PROJECT_DIR$/teste/teste.iml" filepath="$PROJECT_DIR$/teste/teste.iml" />
