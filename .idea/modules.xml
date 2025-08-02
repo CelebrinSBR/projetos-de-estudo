@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/Controle de Fluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/Controle de Fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Santader/Santader.iml" filepath="$PROJECT_DIR$/Santader/Santader.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/coisas do java.iml" filepath="$PROJECT_DIR$/.idea/coisas do java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musicPlayer/musicPlayer.iml" filepath="$PROJECT_DIR$/musicPlayer/musicPlayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/teste/teste.iml" filepath="$PROJECT_DIR$/teste/teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testes para POO/testes para POO.iml" filepath="$PROJECT_DIR$/testes para POO/testes para POO.iml" />
     </modules>
   </component>
 </project>
